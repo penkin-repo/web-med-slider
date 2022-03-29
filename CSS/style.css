@@ -1,5 +1,5 @@
-@import url(CSS/stylezero.css);
-@import url(CSS/stylesheet.css);
+@import url(stylezero.css);
+@import url(stylesheet.css);
 h1 {
   margin-top: 22px;
   font-family: "MuseoSansCyrl";
